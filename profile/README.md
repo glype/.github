@@ -1,4 +1,4 @@
-# Glhat Chat application
+# Glype Chat application
 
 A free and open source chat app that aims to be good and fun!
 
@@ -12,5 +12,5 @@ A free and open source chat app that aims to be good and fun!
 ## ✨ Running ✨
 
 * download [gleam](https://gleam.run/)
-* git clone [glhat-app/core](https://github.com/glhat-app/core.git)
+* git clone [glype/core](https://github.com/glype/core.git)
 * `gleam run` in the folder
